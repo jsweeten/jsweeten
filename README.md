@@ -3,7 +3,7 @@ Nashville Software School: Cohort 59 student <br>
 Full-Stack Web Development <br>
 Based in Nashville, Tennessee <br>
 
-- 🌱 I’m currently learning JavaScript, React, C# and .NET framework
+- 🌱 I’m currently learning JavaScript, React, C# and .NET 5
 
 <!--
 **jsweeten/jsweeten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
