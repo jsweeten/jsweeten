@@ -2,8 +2,9 @@ Justin Sweeten <br>
 Full-Stack Web Developer<br>
 Based in Nashville, Tennessee <br>
 
-Languages, Frameworks and Libraries: React.js, jQuery, ASP.NET, PHP, SQL <br>
-Hobbies: classic rock, volleyball, video games, disc golf, hiking<br>
+Primary Languages: JavaScript, C#, PHP, T-SQL <br>
+Frameworks & Tools: React, jQuery, ASP.NET, Docker<br>
+Interests: guitar, video games, disc golf, hiking, football<br>
 
 <!--
 **jsweeten/jsweeten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
