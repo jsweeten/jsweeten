@@ -1,9 +1,9 @@
 Justin Sweeten <br>
-Full-Stack Web Developer<br>
-Based in Nashville, Tennessee <br>
+Full-Stack Web Developer specializing in C# and React<br>
+Based in Philadelphia, Pennsylvania, USA<br>
 
 Languages: JS/TS, C#, PHP, SQL <br>
-Frameworks & Tools: React, jQuery, ASP.NET, Docker<br>
+Frameworks & Tools: React, jQuery, ASP.NET, Docker, Postman<br>
 
 <!--
 **jsweeten/jsweeten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
